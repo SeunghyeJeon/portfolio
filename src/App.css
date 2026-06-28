@@ -1,7 +1,5 @@
-main {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+nav,
+section {
+  padding: 32px;
+  border-bottom: 1px solid #ddd;
 }
